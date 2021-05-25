@@ -10,7 +10,7 @@ WELCOME MY CSDN PERSONAL BLOG [CSDN BLOG](https://blog.csdn.net/qq_51960163?spm=
 
 
 
-```markdown
+```latex
 \int_{born} ^{died} study = life
 ```
 
